@@ -91,6 +91,9 @@ test program for showing map
 - 2021.01.04  
   - 修正：マーカーが追加されていくので、一度削除してからマーカーを置くように修正  
 
+- 2022.03.26  
+  - github練習用修正  
+
 ## 参考資料
 
 - [ドローン操作システムを作ろう](https://qiita.com/hsgucci/items/86eedb5555b4234ee0e7)  
